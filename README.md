@@ -29,6 +29,10 @@ Apresentar serviços de assistência técnica de maneira simples e objetiva, ofe
 - Git e GitHub para versionamento;
 - Vercel para publicação.
 
+## Processo de desenvolvimento
+
+O projeto foi desenvolvido com apoio de ferramentas de inteligência artificial para acelerar a prototipação, apoiar a implementação e revisar soluções. A definição dos requisitos, as decisões do projeto, a execução dos testes e a validação da qualidade permaneceram sob responsabilidade do autor.
+
 ## Estrutura
 
 ```text
