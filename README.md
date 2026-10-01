@@ -1,39 +1,41 @@
-# ConectaTech — Landing Page e Estudo de Caso de QA
+# ConectaTech — Responsive Landing Page and QA Case Study
 
-Landing page responsiva criada para uma empresa demonstrativa de assistência técnica residencial. O projeto também foi utilizado como estudo de caso para aplicar uma visão de **Quality Assurance (QA)** sobre requisitos, critérios de aceite, testes funcionais, responsividade, acessibilidade e experiência do usuário.
+[English](README.md) | [Português](README.pt-BR.md)
 
-## Projeto publicado
+A responsive landing page created for a fictional residential technical support business. The project was also used as a **Quality Assurance (QA) case study**, covering requirements, acceptance criteria, functional testing, responsiveness, accessibility, and user experience.
 
-[Visualizar a ConectaTech](https://landing-assistencia.vercel.app/)
+## Live Demo
 
-## Objetivo
+[View ConectaTech](https://landing-assistencia.vercel.app/)
 
-Apresentar serviços de assistência técnica de maneira simples e objetiva, oferecendo navegação por seções, descrição do fluxo de atendimento, perguntas frequentes e contato pelo WhatsApp.
+## Goal
 
-## Funcionalidades
+Present technical support services in a clear and straightforward way, with section-based navigation, a service workflow, frequently asked questions, and WhatsApp contact links.
 
-- Menu de navegação por seções;
-- Menu responsivo para celulares e tablets;
-- Apresentação dos serviços;
-- Etapas do atendimento;
-- Perguntas frequentes expansíveis;
-- Botões de contato pelo WhatsApp;
-- Adaptação dos cards para diferentes tamanhos de tela;
-- Recursos básicos de acessibilidade no menu.
+## Features
 
-## Tecnologias utilizadas
+- Section-based navigation;
+- Responsive menu for mobile devices and tablets;
+- Service presentation;
+- Step-by-step support workflow;
+- Expandable FAQ;
+- WhatsApp contact buttons;
+- Responsive cards for different screen sizes;
+- Basic accessibility support for the mobile menu.
 
-- HTML5 para estrutura e conteúdo;
-- CSS3, Flexbox e Grid para apresentação e responsividade;
-- JavaScript para o comportamento do menu mobile;
-- Git e GitHub para versionamento;
-- Vercel para publicação.
+## Technologies
 
-## Processo de desenvolvimento
+- HTML5 for structure and content;
+- CSS3, Flexbox, and Grid for styling and responsiveness;
+- JavaScript for the mobile menu behavior;
+- Git and GitHub for version control;
+- Vercel for deployment.
 
-O projeto foi desenvolvido com apoio de ferramentas de inteligência artificial para acelerar a prototipação, apoiar a implementação e revisar soluções. A definição dos requisitos, as decisões do projeto, a execução dos testes e a validação da qualidade permaneceram sob responsabilidade do autor.
+## Development Process
 
-## Estrutura
+AI-assisted tools were used responsibly to support prototyping, implementation, and solution review. Requirements, project decisions, test execution, and final quality validation remained the author's responsibility.
+
+## Project Structure
 
 ```text
 public/
@@ -44,31 +46,35 @@ public/
 └── script.js
 
 docs/
+├── test-cases.md
+├── qa-report.md
 ├── casos-de-teste.md
 └── relatorio-qa.md
 ```
 
-## Estudo de caso de QA
+## QA Case Study
 
-A análise foi realizada considerando o comportamento esperado pelo usuário e os riscos do produto.
+The analysis considered expected user behavior and product risks.
 
-- [Casos e cenários de teste](docs/casos-de-teste.md)
-- [Relatório de QA, riscos e melhorias](docs/relatorio-qa.md)
+- [Test cases](docs/test-cases.md)
+- [QA report, risks, and improvements](docs/qa-report.md)
+- [Casos de teste em português](docs/casos-de-teste.md)
+- [Relatório de QA em português](docs/relatorio-qa.md)
 
-## Competências demonstradas
+## Skills Demonstrated
 
-- Compreensão e detalhamento de requisitos;
-- Criação de critérios de aceite;
-- Elaboração de cenários de teste;
-- Análise de responsividade e acessibilidade;
-- Identificação de riscos e oportunidades de melhoria;
-- Comunicação entre necessidade do usuário e implementação técnica;
-- Versionamento e publicação de uma aplicação web.
+- Requirements analysis and documentation;
+- Acceptance criteria definition;
+- Test case design and manual execution;
+- Responsive and accessibility testing;
+- Risk identification and improvement planning;
+- Communication between user needs and technical implementation;
+- Version control and web deployment.
 
-## Status do projeto
+## Project Status
 
-Versão demonstrativa funcional. O número utilizado nos links do WhatsApp é fictício e deve ser substituído antes de qualquer uso comercial.
+Functional demonstration version. The WhatsApp number used in the links is a placeholder and must be replaced before any commercial use.
 
 ---
 
-Projeto desenvolvido para aprendizado e portfólio, com foco crescente em QA e qualidade de software.
+Developed as a learning and portfolio project, with a growing focus on QA and software quality.
