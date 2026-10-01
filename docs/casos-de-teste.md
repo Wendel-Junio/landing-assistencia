@@ -52,7 +52,7 @@ Este documento descreve os principais cenários funcionais, responsivos e de ace
 
 | Data | Testes | Tipo | Resultado | Ambiente |
 |---|---|---|---|---|
-| 01/10/2026 | CT-001 a CT-013 | Execução manual | 13 aprovados | Não registrado |
+| 01/10/2026 | CT-001 a CT-013 | Execução manual | 13 aprovados | Google Chrome no Samsung Galaxy S23 Ultra; computador (navegador não informado) |
 
 ## Modelo para registrar uma execução
 
